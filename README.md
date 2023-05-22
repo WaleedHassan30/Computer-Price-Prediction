@@ -24,7 +24,3 @@ Machine Leaning Problem It is a Regresion problem, for a given columns we need t
 Performance Metric
 
 R2 Score
-
-Full Code Project link : https://drive.google.com/drive/folders/1JinfY__YpmSMYVNTSB4O-dixEDq4wmbG?usp=sharing
-test Project after deployed : https://cprice.herokuapp.com/
-Video: 
